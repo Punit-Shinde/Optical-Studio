@@ -1,6 +1,6 @@
-#﻿# Quality-Jackets Landing Page
+# Optical-Studio Landing Page
 
-![Fashion Portfolio](opticalStudio.jpg)
+![Optical-Studio](opticalStudio.jpg)
 
 ## Description
 
